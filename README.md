@@ -1,4 +1,11 @@
-# smallshop
+# smallshop项目简介
+
+## 常用依赖安装 
+1.安装normalize
+```javascript
+  //作用是统一不同浏览器的样式差异
+  npm install normalize.css --save
+```
 
 ## Project setup
 ```
